@@ -7,7 +7,7 @@ A Power BI dashboard was created to visualize KPIs and support decision-making.
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot]![Dashboard Screenshot](Dashboard.png)
+![Dashboard Screenshot]!("C:\Users\Aadit\OneDrive\Documents\GitHub\Data_Analysis_Portfolio\Projects\Sales_Analysis_1\image")
 
 
 ---
