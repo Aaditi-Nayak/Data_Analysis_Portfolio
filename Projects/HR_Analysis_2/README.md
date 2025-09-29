@@ -5,7 +5,7 @@ The goal of this project was to analyze HR employee data to identify the factors
 An interactive Tableau dashboard was created to visualize key HR metrics and attrition patterns.
 
 📊 Dashboard Preview  
-Dashboard Screenshot  
+![Dashboard Screenshot](Dashboard.png)
 
 📊 Dataset  
 - HR_Employee_Attrition.xlsx – Employee demographics, job satisfaction, performance, and attrition data  
