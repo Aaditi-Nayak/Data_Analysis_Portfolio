@@ -9,7 +9,6 @@ A Power BI dashboard was created to visualize KPIs and support decision-making.
 ## 📊 Dashboard Preview
 ![Dashboard Screenshot](Dashboard.png)
 
-
 ---
 
 ## 📊 Dataset
